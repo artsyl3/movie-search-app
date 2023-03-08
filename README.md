@@ -1,6 +1,6 @@
 # Search for the movies
 
-Movie Search App" is a simple React web application that allows users to search for movies and view their details. Powered by the Open Movie Database API, this app displays movie posters, titles, and years of release in a responsive grid layout. Users can search for movies by entering keywords in the search bar and clicking the search button. The app also allows users to view more details of a movie by clicking on its poster. Built with React, Axios, React Bootstrap, and deployed on Netlify.
+"Movie Search App" is a simple React web application that allows users to search for movies and view their details. Powered by the Open Movie Database API, this app displays movie posters, titles, and years of release in a responsive grid layout. Users can search for movies by entering keywords in the search bar and clicking the search button. The app also allows users to view more details of a movie by clicking on its poster. Built with React, Axios, React Bootstrap, and deployed on Netlify.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
